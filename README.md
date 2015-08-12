@@ -1,0 +1,3 @@
+    sketch para controle de motor de passo 9 volts
+   controle com potenciometro utilizando shield 
+  ponte H...
